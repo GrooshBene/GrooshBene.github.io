@@ -1,38 +1,38 @@
 {
-  "publicPath": "/",
+  "publicPath": "/dist",
   "app": {
     "name": "Résume",
     "themeColor": "#ffffff"
   },
-  "title": "Résume | Geunhyeok LEE",
+  "title": "Ryan Park | 박지수",
   "ga": "UA-000000000-0",
-  "introText": ["For better", "Web experience."],
+  "introText": ["For Qualified", "Data Experience"],
   "profile": {
-    "name": "Geunhyeok LEE",
-    "email": "dev.ghlee@gmail.com",
+    "name": "Ryan Park",
+    "email": "grooshbene@gmail.com",
     "photo": "avatar.png",
-    "introduce": "Makes web better",
+    "introduce": "AI Architect/Engineer",
     "social": [
       {
         "icon": "github",
-        "label": "leegeunhyeok",
-        "url": "https://github.com/leegeunhyeok"
+        "label": "Grooshbene",
+        "url": "https://github.com/grooshbene"
       },
       {
         "icon": "web",
-        "url": "https://geundung.dev"
+        "url": "https://grooshbene.github.io"
       }
     ],
     "skill": [
       {
-        "label": "Vue.js",
-        "color": "vue"
+        "label": "Tensorflow",
+        "color": "js"
       },
       {
-        "label": "Other",
-        "color": "ts"
+        "label": "PyTorch",
+        "color": "cpp"
       }
     ],
-    "hobby": ["프로그래밍", "운동"]
+    "hobby": ["게임", "작곡"]
   }
 }
